@@ -21,7 +21,7 @@ const FooterSection = () => {
                     <h4 className="mb-4 text-lg font-bold text-cyan-500">Resources and Support</h4>
                     <p className="mb-4">
                         Semicolon is hosting the training on Sui Move, sponsored by the Sui Foundation. If you have any questions or need any kind of support, click on the link to register:
-                        <a className="text-cyan-500 underline" href="https://bit.ly/SC-SUI-Training">https://bit.ly/SC-SUI-Training</a>
+                        <a className=" underline" href="https://bit.ly/SC-SUI-Training">https://bit.ly/SC-SUI-Training</a>
                     </p>
                     <p>
                         Semicolon is a workforce development company that is solving the problem of youth unemployment by training software engineers and hardware developers through an intensive 12-month program. The company has a proven track record with over 300 software engineers in the global market.

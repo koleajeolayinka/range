@@ -14,7 +14,7 @@ const ApplyCard: FC<ApplyCardProps> = ({ type, description, icon }) => {
             <p className="text-gray-600">
                 To apply as a <strong>{type}</strong>, click here
             </p>
-            <button className="mt-4 px-6 py-2 bg-slate-900 text-white rounded-full flex items-center gap-2">
+            <button className="mt-4 px-6 py-2 cursor-pointer bg-slate-900 text-white rounded-full flex items-center gap-2">
                 {type} <span className="text-lg">→</span>
             </button>
         </div>

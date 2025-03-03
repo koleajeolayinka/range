@@ -52,7 +52,9 @@ const FeaturesAndBenefits = () => {
                         </li>
                         <li className="flex items-start gap-2">
                             <span className="text-blue-500 mt-1">•</span>
-                            <span>Strengthen solutions that can be used to compete in global hackathons, enter accelerator programs, and become viable businesses</span>
+                            <span>Strengthen solutions that can be used to compete
+in global hackathons, enter accelerator programs,
+and become viable businesse*</span>
                         </li>
                         <li className="flex items-start gap-2">
                             <span className="text-blue-500 mt-1">•</span>
@@ -65,10 +67,6 @@ const FeaturesAndBenefits = () => {
                         <li className="flex items-start gap-2">
                             <span className="text-blue-500 mt-1">•</span>
                             <span>All participants who successfully complete the Hacker House are eligible for a reward worth the equivalent of $100</span>
-                        </li>
-                        <li className="flex items-start gap-2">
-                            <span className="mt-1 text-blue-500">•</span>
-                            <span>Participants would build robust solutions using Sui and prepare for the Sui Overflow 2025 Hackathon, a virtual global competition with over $500,000 in combined prizes.</span>
                         </li>
                     </ul>
                 </div>

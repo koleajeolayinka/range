@@ -19,7 +19,7 @@ const AboutSection = () => {
                     <h2 className="mb-6 text-2xl font-bold text-blue-600">About SUI Lagos Hacker House</h2>
                     <p className="mb-4"><span className="font-semibold text-blue-600">Sui Lagos Hacker House</span> is a 6-day event that is designed to bring together developers, engineers, builders, innovators, and blockchain enthusiasts who are interested in building on the Sui blockchain.</p>
                     <p className="mb-4">The event will feature workshops, mentorship and coaching sessions, hacking, and networking opportunities to encourage innovation and collaboration. Attendees will learn about the Sui blockchain, develop skills to build robust solutions using Sui and prepare for the <span className="font-semibold text-blue-600">Sui Overflow 2023 Hackathon</span>, a global competition with over $500,000 in combined prizes.</p>
-                    <p className="mb-4">The Sui Lagos Hacker House is implemented by <span className="font-semibold">Semicolon</span> and sponsored by <span className="font-semibold">Sui Foundation</span>.</p>
+                    <p className="mb-4">The Sui Lagos Hacker House is implemented by <span className="font-semibold cursor-pointer underline">Semicolon</span> and sponsored by <span className="font-semibold cursor-pointer underline">Sui Foundation</span>.</p>
                 </div>
             </div>
         </section>
