@@ -5,13 +5,13 @@ const AboutSection = () => {
         <section className="mx-auto my-16 max-w-6xl px-4 py-8">
             <div className="grid gap-8 md:grid-cols-2">
                 <div className="relative">
-                    <div className="absolute top-5 left-0 rounded-xl bg-white p-2 shadow-lg z-50">
+                    <div className="absolute top-5 left-0 rounded-xl bg-[#ECECEC] p-2 shadow-lg z-50">
                         <p className="text-sm font-medium text-gray-800">Web 3.0</p>
                     </div>
                     <div className="relative w-full max-w-[350px] aspect-square overflow-hidden rounded-full bg-[#0A1739]">
                         <img alt="Smiling woman with laptop" loading="lazy" decoding="async" data-nimg="fill" className="object-cover" style={{ position: 'absolute', height: '100%', width: '100%', left: 0, top: 0, right: 0, bottom: 0, color: 'transparent' }} src="/about-sui-image.svg" />
                     </div>
-                    <div className="absolute -bottom-3 right-48 rounded-xl bg-white p-2 shadow-lg">
+                    <div className="absolute -bottom-3 right-48 rounded-xl bg-[#ECECEC] p-2 shadow-lg">
                         <p className="text-sm font-medium text-gray-800">Blockchain Tech</p>
                     </div>
                 </div>
