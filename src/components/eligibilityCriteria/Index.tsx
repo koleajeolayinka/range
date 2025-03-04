@@ -7,9 +7,12 @@ const EligibilityCriteria = () => {
                 <div className="grid md:grid-cols-2 items-center relative">
                     <div className="p-16 z-10 relative">
                         <h3 className="mb-6 text-xl font-bold text-cyan-500">Eligibility Criteria</h3>
-                        <ul className="space-y-4">
+                        <ul className="grid gap-2">
                             <li className="text-white">
-                                <span className="font-semibold text-cyan-500">Team Size:</span> Maximum of 4 (individuals are eligible to apply but will be paired to make the team)
+                                <span className="font-semibold text-cyan-500">Team Size:</span> Between 2-4 members
+                            </li>
+                            <li className="text-white">
+                                <span className="font-semibold text-cyan-500">Age:</span> 18+ years old
                             </li>
                             <li className="text-white">
                                 <span className="font-semibold text-cyan-500">Participants:</span> Open to developers, designers, entrepreneurs, and blockchain enthusiasts
